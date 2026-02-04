@@ -1,3 +1,5 @@
+Heart Animation Using HTML Canvas & JavaScript
+
 This project is a simple heart animation created using HTML Canvas and JavaScript.
 It draws a smooth animated heart shape on the canvas using basic graphics and animation logic.
 
